@@ -137,7 +137,7 @@ code
 - https://programmers.co.kr/learn/courses/30/lessons/17683
 
 
-### **Week 7**
+### **Week 6**
 
 
 총무 : S-J-Kim(5)
@@ -150,14 +150,24 @@ code
 - https://programmers.co.kr/learn/courses/30/lessons/60060
 
 
+### **Week 7**
+
+
+총무 : S-J-Kim(5)
+
+
+필수 문제
+
+- https://programmers.co.kr/learn/courses/30/lessons/42888
+- https://programmers.co.kr/learn/courses/30/lessons/42890
+- https://programmers.co.kr/learn/courses/30/lessons/42892
+
 ---
 
 
 ## Participants
 
-- [gimkuku](https://github.com/gimkuku)
 - [ujunhwan](https://github.com/ujunhwan)
-- [gyun-ky](https://github.com/gyun-ky)
-- [danbom](https://github.com/danbom)
 - [seungwookim99](https://github.com/seungwookim99)
 - [S-J-Kim](https://github.com/S-J-Kim)
+- [itsnowkim](https://github.com/itsnowkim)
