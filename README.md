@@ -162,6 +162,18 @@ code
 - https://programmers.co.kr/learn/courses/30/lessons/42890
 - https://programmers.co.kr/learn/courses/30/lessons/42892
 
+### **Week 8**
+
+
+총무 : itsnowkim
+
+
+필수 문제
+
+- https://programmers.co.kr/learn/courses/30/lessons/60057
+- https://programmers.co.kr/learn/courses/30/lessons/64065
+- https://programmers.co.kr/learn/courses/30/lessons/67259
+
 ---
 
 
