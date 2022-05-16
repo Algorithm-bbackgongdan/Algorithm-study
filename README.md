@@ -5,7 +5,7 @@
 - https://programmers.co.kr/learn/challenges
 - 고정된 스터디 시간 없이, 마감일까지 각자 공부하고 파트너의 코드 리뷰
 - 돌아가면서 총무
-- gimkuku(0) -> ujunhwan(1) -> gyun-ky(2) -> danbom(3) -> seungwookim99(4) -> S-J-Kim(5)
+- ujunhwan(0) -> seungwookim99(1) -> S-J-Kim(2) -> itsnowkim(3)
 
 
 1. 시작
@@ -161,3 +161,4 @@ code
 - [danbom](https://github.com/danbom)
 - [seungwookim99](https://github.com/seungwookim99)
 - [S-J-Kim](https://github.com/S-J-Kim)
+- [itsnowkim](https://github.com/itsnowkim)
