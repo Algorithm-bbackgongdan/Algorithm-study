@@ -51,8 +51,8 @@ def solution(record):
 
 단순한 구현 문제였다
 
-# kakao_92890 : 후보키
-문제 출처 : https://programmers.co.kr/learn/courses/30/lessons/92890
+# kakao_42890 : 후보키
+문제 출처 : https://programmers.co.kr/learn/courses/30/lessons/42890
 
 ## 😎 Solved Code
 
