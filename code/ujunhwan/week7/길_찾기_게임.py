@@ -34,7 +34,7 @@ def solution(nodeinfo):
                 number = n 
                 idx = i
         
-       	left_child = make_tree(lo, idx-1)
+        left_child = make_tree(lo, idx-1)
         right_child = make_tree(idx+1, hi)
         node[number] = [left_child, right_child]
         return number
